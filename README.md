@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stamer</h1>
+<h1 align="center">I'm Stamer</h1>
 <h3 align="center">Developer of Stosufy 🎶</h3>
 
 
