@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Stamer</h1>
-<h3 align="center">Developer of <strong>Stosufy 🎶</strong></h3>
-
 ---
 
 ## 🚀 About Me
