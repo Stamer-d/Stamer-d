@@ -41,8 +41,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stamer-d&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
----
-
-Thanks for visiting! 🚀  
-Let’s build something amazing together.
 
